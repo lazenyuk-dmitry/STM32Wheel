@@ -1,0 +1,27 @@
+################################################################################
+# Automatically-generated file. Do not edit!
+# Toolchain: GNU Tools for STM32 (10.3-2021.10)
+################################################################################
+
+# Add inputs and outputs from these tool invocations to the build variables 
+C_SRCS += \
+../_Library/tinyusb-master/src/portable/wch/ch32v307/dcd_usbhs.c 
+
+OBJS += \
+./_Library/tinyusb-master/src/portable/wch/ch32v307/dcd_usbhs.o 
+
+C_DEPS += \
+./_Library/tinyusb-master/src/portable/wch/ch32v307/dcd_usbhs.d 
+
+
+# Each subdirectory must supply rules for building sources it contributes
+_Library/tinyusb-master/src/portable/wch/ch32v307/%.o _Library/tinyusb-master/src/portable/wch/ch32v307/%.su _Library/tinyusb-master/src/portable/wch/ch32v307/%.cyclo: ../_Library/tinyusb-master/src/portable/wch/ch32v307/%.c _Library/tinyusb-master/src/portable/wch/ch32v307/subdir.mk
+	arm-none-eabi-gcc "$<" -mcpu=cortex-m3 -std=gnu11 -g3 -DDEBUG -DUSE_HAL_DRIVER -DSTM32F103xB -DCFG_TUSB_MCU=OPT_MCU_STM32F1 -c -I../Core/Inc -I../Drivers/STM32F1xx_HAL_Driver/Inc -I../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -I../Drivers/CMSIS/Device/ST/STM32F1xx/Include -I../Drivers/CMSIS/Include -I"D:/projects/STM32Wheel/STM32Wheel/_Library/tinyusb-master/src" -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"$(@:%.o=%.d)" -MT"$@" --specs=nano.specs -mfloat-abi=soft -mthumb -o "$@"
+
+clean: clean-_Library-2f-tinyusb-2d-master-2f-src-2f-portable-2f-wch-2f-ch32v307
+
+clean-_Library-2f-tinyusb-2d-master-2f-src-2f-portable-2f-wch-2f-ch32v307:
+	-$(RM) ./_Library/tinyusb-master/src/portable/wch/ch32v307/dcd_usbhs.cyclo ./_Library/tinyusb-master/src/portable/wch/ch32v307/dcd_usbhs.d ./_Library/tinyusb-master/src/portable/wch/ch32v307/dcd_usbhs.o ./_Library/tinyusb-master/src/portable/wch/ch32v307/dcd_usbhs.su
+
+.PHONY: clean-_Library-2f-tinyusb-2d-master-2f-src-2f-portable-2f-wch-2f-ch32v307
+
