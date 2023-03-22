@@ -1,0 +1,17 @@
+usb_reg_map.h:199:20:usb_clear_ctr_rx	1
+usb_reg_map.h:204:20:usb_clear_ctr_tx	1
+usb_reg_map.h:289:20:usb_set_ep_rx_stat	1
+usb_reg_map.h:297:20:usb_set_ep_tx_stat	1
+usb.c:88:6:usb_init_usblib	1
+usb.c:108:13:usb_suspend	1
+usb.c:123:6:usb_power_off	1
+usb.c:129:13:usb_resume_init	1
+usb.c:140:13:usb_resume	10
+usb.c:193:13:__irq_usb_lp_can_rx0	8
+usb.c:275:13:dispatch_ctr_lp	4
+usb.c:303:21:dispatch_endpt_zero	6
+usb.c:361:20:dispatch_endpt	3
+usb.c:378:20:set_rx_tx_status0	1
+usb.c:385:13:handle_setup0	1
+usb.c:389:13:handle_in0	1
+usb.c:393:13:handle_out0	1

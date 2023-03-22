@@ -1,0 +1,8 @@
+bitband.h:90:32:bb_perip	1
+bitband.h:116:32:__bb_addr	1
+bkp_f1.c:51:6:bkp_init	1
+bkp_f1.c:64:6:bkp_enable_writes	1
+bkp_f1.c:71:6:bkp_disable_writes	1
+bkp_f1.c:80:8:bkp_read	2
+bkp_f1.c:99:6:bkp_write	2
+bkp_f1.c:115:28:data_register	3

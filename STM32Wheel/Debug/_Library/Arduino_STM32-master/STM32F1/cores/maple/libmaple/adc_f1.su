@@ -1,0 +1,13 @@
+D:/projects/STM32Wheel/STM32Wheel/_Library/Arduino_STM32-master/STM32F1/system/libmaple/include/libmaple/bitband.h:90:32:bb_perip	16	static
+D:/projects/STM32Wheel/STM32Wheel/_Library/Arduino_STM32-master/STM32F1/system/libmaple/include/libmaple/bitband.h:116:32:__bb_addr	24	static
+D:/projects/STM32Wheel/STM32Wheel/_Library/Arduino_STM32-master/STM32F1/system/libmaple/include/libmaple/nvic.h:127:20:nvic_irq_enable	16	static
+D:/projects/STM32Wheel/STM32Wheel/_Library/Arduino_STM32-master/STM32F1/system/libmaple/stm32f1/include/series/adc.h:267:20:adc_set_exttrig	24	static
+D:/projects/STM32Wheel/STM32Wheel/_Library/Arduino_STM32-master/STM32F1/system/libmaple/include/libmaple/adc.h:328:20:adc_enable	16	static
+../_Library/Arduino_STM32-master/STM32F1/cores/maple/libmaple/adc_f1.c:75:13:__irq_adc	24	static
+../_Library/Arduino_STM32-master/STM32F1/cores/maple/libmaple/adc_f1.c:146:6:adc_enable_irq	16	static
+../_Library/Arduino_STM32-master/STM32F1/cores/maple/libmaple/adc_f1.c:157:6:adc_attach_interrupt	24	static
+../_Library/Arduino_STM32-master/STM32F1/cores/maple/libmaple/adc_f1.c:177:6:adc_calibrate	24	static
+../_Library/Arduino_STM32-master/STM32F1/cores/maple/libmaple/adc_f1.c:194:6:adc_set_prescaler	16	static
+../_Library/Arduino_STM32-master/STM32F1/cores/maple/libmaple/adc_f1.c:198:6:adc_foreach	16	static
+../_Library/Arduino_STM32-master/STM32F1/cores/maple/libmaple/adc_f1.c:206:6:adc_config_gpio	24	static
+../_Library/Arduino_STM32-master/STM32F1/cores/maple/libmaple/adc_f1.c:210:6:adc_enable_single_swstart	16	static

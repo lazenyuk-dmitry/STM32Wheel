@@ -1,0 +1,5 @@
+D:/projects/STM32Wheel/STM32Wheel/_Library/Arduino_STM32-master/STM32F1/system/libmaple/usb/stm32f1/usb_reg_map.h:352:24:usb_pma_ptr	16	static
+D:/projects/STM32Wheel/STM32Wheel/_Library/Arduino_STM32-master/STM32F1/system/libmaple/usb/stm32f1/usb_reg_map.h:427:23:usb_btable_ptr	16	static
+D:/projects/STM32Wheel/STM32Wheel/_Library/Arduino_STM32-master/STM32F1/system/libmaple/usb/stm32f1/usb_reg_map.h:480:23:usb_ep_rx_count_ptr	16	static
+../_Library/Arduino_STM32-master/STM32F1/cores/maple/libmaple/usb/stm32f1/usb_reg_map.c:61:13:usb_set_ep_rx_count_common	24	static
+../_Library/Arduino_STM32-master/STM32F1/cores/maple/libmaple/usb/stm32f1/usb_reg_map.c:85:6:usb_set_ep_rx_count	24	static

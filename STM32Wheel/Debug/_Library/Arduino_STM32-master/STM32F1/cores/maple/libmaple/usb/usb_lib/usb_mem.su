@@ -1,0 +1,2 @@
+../_Library/Arduino_STM32-master/STM32F1/cores/maple/libmaple/usb/usb_lib/usb_mem.c:35:6:UserToPMABufferCopy	40	static
+../_Library/Arduino_STM32-master/STM32F1/cores/maple/libmaple/usb/usb_lib/usb_mem.c:60:6:PMAToUserBufferCopy	32	static

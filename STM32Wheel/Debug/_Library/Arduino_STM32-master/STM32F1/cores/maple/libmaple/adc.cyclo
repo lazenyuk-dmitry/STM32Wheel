@@ -1,0 +1,5 @@
+adc.h:317:20:adc_set_reg_seqlen	1
+adc.c:47:6:adc_init	1
+adc.c:58:6:adc_set_extsel	1
+adc.c:75:6:adc_set_sample_rate	3
+adc.c:99:8:adc_read	2

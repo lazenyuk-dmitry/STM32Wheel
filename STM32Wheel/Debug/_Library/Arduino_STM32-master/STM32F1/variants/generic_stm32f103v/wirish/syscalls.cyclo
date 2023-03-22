@@ -1,0 +1,14 @@
+syscalls.c:60:7:_sbrk	4
+syscalls.c:79:12:_open	1
+syscalls.c:83:12:_close	1
+syscalls.c:87:12:_fstat	1
+syscalls.c:92:12:_isatty	1
+syscalls.c:96:12:isatty	1
+syscalls.c:100:12:_lseek	1
+syscalls.c:104:22:getch	1
+syscalls.c:109:12:_read	1
+syscalls.c:115:13:putch	1
+syscalls.c:118:13:cgets	8
+syscalls.c:158:12:_write	2
+syscalls.c:168:14:fgets	1
+syscalls.c:173:13:_exit	1

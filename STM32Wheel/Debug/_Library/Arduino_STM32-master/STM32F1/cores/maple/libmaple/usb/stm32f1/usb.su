@@ -1,0 +1,17 @@
+D:/projects/STM32Wheel/STM32Wheel/_Library/Arduino_STM32-master/STM32F1/system/libmaple/usb/stm32f1/usb_reg_map.h:199:20:usb_clear_ctr_rx	24	static
+D:/projects/STM32Wheel/STM32Wheel/_Library/Arduino_STM32-master/STM32F1/system/libmaple/usb/stm32f1/usb_reg_map.h:204:20:usb_clear_ctr_tx	24	static
+D:/projects/STM32Wheel/STM32Wheel/_Library/Arduino_STM32-master/STM32F1/system/libmaple/usb/stm32f1/usb_reg_map.h:289:20:usb_set_ep_rx_stat	24	static
+D:/projects/STM32Wheel/STM32Wheel/_Library/Arduino_STM32-master/STM32F1/system/libmaple/usb/stm32f1/usb_reg_map.h:297:20:usb_set_ep_tx_stat	24	static
+../_Library/Arduino_STM32-master/STM32F1/cores/maple/libmaple/usb/stm32f1/usb.c:88:6:usb_init_usblib	24	static
+../_Library/Arduino_STM32-master/STM32F1/cores/maple/libmaple/usb/stm32f1/usb.c:108:13:usb_suspend	16	static
+../_Library/Arduino_STM32-master/STM32F1/cores/maple/libmaple/usb/stm32f1/usb.c:123:6:usb_power_off	4	static
+../_Library/Arduino_STM32-master/STM32F1/cores/maple/libmaple/usb/stm32f1/usb.c:129:13:usb_resume_init	16	static
+../_Library/Arduino_STM32-master/STM32F1/cores/maple/libmaple/usb/stm32f1/usb.c:140:13:usb_resume	24	static
+../_Library/Arduino_STM32-master/STM32F1/cores/maple/libmaple/usb/stm32f1/usb.c:193:13:__irq_usb_lp_can_rx0	16	static
+../_Library/Arduino_STM32-master/STM32F1/cores/maple/libmaple/usb/stm32f1/usb.c:275:13:dispatch_ctr_lp	16	static
+../_Library/Arduino_STM32-master/STM32F1/cores/maple/libmaple/usb/stm32f1/usb.c:303:21:dispatch_endpt_zero	24	static
+../_Library/Arduino_STM32-master/STM32F1/cores/maple/libmaple/usb/stm32f1/usb.c:361:20:dispatch_endpt	24	static
+../_Library/Arduino_STM32-master/STM32F1/cores/maple/libmaple/usb/stm32f1/usb.c:378:20:set_rx_tx_status0	16	static
+../_Library/Arduino_STM32-master/STM32F1/cores/maple/libmaple/usb/stm32f1/usb.c:385:13:handle_setup0	8	static
+../_Library/Arduino_STM32-master/STM32F1/cores/maple/libmaple/usb/stm32f1/usb.c:389:13:handle_in0	8	static
+../_Library/Arduino_STM32-master/STM32F1/cores/maple/libmaple/usb/stm32f1/usb.c:393:13:handle_out0	8	static
