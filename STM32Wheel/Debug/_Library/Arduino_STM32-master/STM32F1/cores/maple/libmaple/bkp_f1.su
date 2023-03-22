@@ -1,8 +1,0 @@
-D:/projects/STM32Wheel/STM32Wheel/_Library/Arduino_STM32-master/STM32F1/system/libmaple/include/libmaple/bitband.h:90:32:bb_perip	16	static
-D:/projects/STM32Wheel/STM32Wheel/_Library/Arduino_STM32-master/STM32F1/system/libmaple/include/libmaple/bitband.h:116:32:__bb_addr	24	static
-../_Library/Arduino_STM32-master/STM32F1/cores/maple/libmaple/bkp_f1.c:51:6:bkp_init	8	static
-../_Library/Arduino_STM32-master/STM32F1/cores/maple/libmaple/bkp_f1.c:64:6:bkp_enable_writes	8	static
-../_Library/Arduino_STM32-master/STM32F1/cores/maple/libmaple/bkp_f1.c:71:6:bkp_disable_writes	8	static
-../_Library/Arduino_STM32-master/STM32F1/cores/maple/libmaple/bkp_f1.c:80:8:bkp_read	24	static
-../_Library/Arduino_STM32-master/STM32F1/cores/maple/libmaple/bkp_f1.c:99:6:bkp_write	24	static
-../_Library/Arduino_STM32-master/STM32F1/cores/maple/libmaple/bkp_f1.c:115:28:data_register	16	static

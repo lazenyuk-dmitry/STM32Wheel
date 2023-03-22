@@ -1,5 +1,0 @@
-D:/projects/STM32Wheel/STM32Wheel/_Library/Arduino_STM32-master/STM32F1/system/libmaple/include/libmaple/adc.h:317:20:adc_set_reg_seqlen	24	static
-../_Library/Arduino_STM32-master/STM32F1/cores/maple/libmaple/adc.c:47:6:adc_init	16	static
-../_Library/Arduino_STM32-master/STM32F1/cores/maple/libmaple/adc.c:58:6:adc_set_extsel	24	static
-../_Library/Arduino_STM32-master/STM32F1/cores/maple/libmaple/adc.c:75:6:adc_set_sample_rate	32	static
-../_Library/Arduino_STM32-master/STM32F1/cores/maple/libmaple/adc.c:99:8:adc_read	24	static

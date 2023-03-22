@@ -1,0 +1,15 @@
+D:/projects/STM32Wheel/STM32Wheel/_Library/libusb_stm32-master/inc/usbd_core.h:469:24:usbd_getinfo	16	static
+../_Library/libusb_stm32-master/src/usbd_core.c:28:13:usbd_process_reset	16	static
+../_Library/libusb_stm32-master/src/usbd_core.c:42:13:usbd_set_address	16	static
+../_Library/libusb_stm32-master/src/usbd_core.c:51:13:usbd_process_callback	16	static
+../_Library/libusb_stm32-master/src/usbd_core.c:63:21:usbd_configure	16	static
+../_Library/libusb_stm32-master/src/usbd_core.c:80:21:usbd_process_devrq	16	static
+../_Library/libusb_stm32-master/src/usbd_core.c:128:21:usbd_process_intrq	16	static
+../_Library/libusb_stm32-master/src/usbd_core.c:146:21:usbd_process_eptrq	16	static
+../_Library/libusb_stm32-master/src/usbd_core.c:169:21:usbd_process_request	24	static
+../_Library/libusb_stm32-master/src/usbd_core.c:194:13:usbd_stall_pid	16	static
+../_Library/libusb_stm32-master/src/usbd_core.c:205:13:usbd_process_eptx	24	static
+../_Library/libusb_stm32-master/src/usbd_core.c:240:13:usbd_process_eprx	24	static
+../_Library/libusb_stm32-master/src/usbd_core.c:323:13:usbd_process_ep0	16	static
+../_Library/libusb_stm32-master/src/usbd_core.c:347:13:usbd_process_evt	16	static
+../_Library/libusb_stm32-master/src/usbd_core.c:363:43:usbd_poll	16	static

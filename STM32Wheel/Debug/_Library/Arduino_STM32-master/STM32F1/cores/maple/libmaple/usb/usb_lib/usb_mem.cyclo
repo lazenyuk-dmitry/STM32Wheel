@@ -1,2 +1,0 @@
-usb_mem.c:35:6:UserToPMABufferCopy	2
-usb_mem.c:60:6:PMAToUserBufferCopy	3

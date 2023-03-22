@@ -1,5 +1,0 @@
-usb_reg_map.h:352:24:usb_pma_ptr	1
-usb_reg_map.h:427:23:usb_btable_ptr	1
-usb_reg_map.h:480:23:usb_ep_rx_count_ptr	1
-usb_reg_map.c:61:13:usb_set_ep_rx_count_common	4
-usb_reg_map.c:85:6:usb_set_ep_rx_count	1

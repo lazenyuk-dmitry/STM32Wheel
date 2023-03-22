@@ -1,0 +1,15 @@
+usbd_core.h:469:24:usbd_getinfo	1
+usbd_core.c:28:13:usbd_process_reset	1
+usbd_core.c:42:13:usbd_set_address	2
+usbd_core.c:51:13:usbd_process_callback	2
+usbd_core.c:63:21:usbd_configure	4
+usbd_core.c:80:21:usbd_process_devrq	9
+usbd_core.c:128:21:usbd_process_intrq	2
+usbd_core.c:146:21:usbd_process_eptrq	5
+usbd_core.c:169:21:usbd_process_request	7
+usbd_core.c:194:13:usbd_stall_pid	1
+usbd_core.c:205:13:usbd_process_eptx	10
+usbd_core.c:240:13:usbd_process_eprx	15
+usbd_core.c:323:13:usbd_process_ep0	5
+usbd_core.c:347:13:usbd_process_evt	6
+usbd_core.c:363:43:usbd_poll	1

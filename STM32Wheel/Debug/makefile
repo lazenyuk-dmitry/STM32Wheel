@@ -9,29 +9,8 @@ RM := rm -rf
 
 # All of the sources participating in the build are defined here
 -include sources.mk
--include _Library/Arduino_STM32-master/STM32F1/variants/nucleo_f103rb/wirish/subdir.mk
--include _Library/Arduino_STM32-master/STM32F1/variants/microduino/wirish/subdir.mk
--include _Library/Arduino_STM32-master/STM32F1/variants/maple_ret6/wirish/subdir.mk
--include _Library/Arduino_STM32-master/STM32F1/variants/maple_mini/wirish/subdir.mk
--include _Library/Arduino_STM32-master/STM32F1/variants/maple/wirish/subdir.mk
--include _Library/Arduino_STM32-master/STM32F1/variants/hytiny_stm32f103t/wirish/subdir.mk
--include _Library/Arduino_STM32-master/STM32F1/variants/generic_stm32f103z/wirish/subdir.mk
--include _Library/Arduino_STM32-master/STM32F1/variants/generic_stm32f103vb/wirish/subdir.mk
--include _Library/Arduino_STM32-master/STM32F1/variants/generic_stm32f103v/wirish/subdir.mk
--include _Library/Arduino_STM32-master/STM32F1/variants/generic_stm32f103t/wirish/subdir.mk
--include _Library/Arduino_STM32-master/STM32F1/variants/generic_stm32f103r8/wirish/subdir.mk
--include _Library/Arduino_STM32-master/STM32F1/variants/generic_stm32f103r/wirish/subdir.mk
--include _Library/Arduino_STM32-master/STM32F1/variants/generic_stm32f103c/wirish/subdir.mk
--include _Library/Arduino_STM32-master/STM32F1/variants/generic_gd32f103c/wirish/subdir.mk
--include _Library/Arduino_STM32-master/STM32F1/variants/STM32VLD/wirish/subdir.mk
--include _Library/Arduino_STM32-master/STM32F1/libraries/USBComposite/subdir.mk
--include _Library/Arduino_STM32-master/STM32F1/cores/maple/stm32f1/subdir.mk
--include _Library/Arduino_STM32-master/STM32F1/cores/maple/libmaple/usb/usb_lib/subdir.mk
--include _Library/Arduino_STM32-master/STM32F1/cores/maple/libmaple/usb/stm32f1/subdir.mk
--include _Library/Arduino_STM32-master/STM32F1/cores/maple/libmaple/stm32f1/performance/subdir.mk
--include _Library/Arduino_STM32-master/STM32F1/cores/maple/libmaple/subdir.mk
--include _Library/Arduino_STM32-master/STM32F1/cores/maple/avr/subdir.mk
--include _Library/Arduino_STM32-master/STM32F1/cores/maple/subdir.mk
+-include _Library/libusb_stm32-master/src/subdir.mk
+-include _Library/libusb_stm32-master/demo/subdir.mk
 -include Drivers/STM32F1xx_HAL_Driver/Src/subdir.mk
 -include Core/Startup/subdir.mk
 -include Core/Src/subdir.mk
